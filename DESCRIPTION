@@ -1,6 +1,6 @@
 4x slide potentiometers for use with I2C-AD4DA.
 
-Fixed silkscreen AGND and +5V labels.
+Shrunk board
 
 The Light UI has 4x slide potentiometers which are used to control
 LED Layout lighting color balances and levels. It is designed to
