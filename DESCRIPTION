@@ -1,0 +1,8 @@
+4x slide potentiometers for use with I2C-AD4DA.
+
+This version has the wrong footprint for the slider potentiometers that I had purchased.
+
+The Light UI has 4x slide potentiometers which are used to control
+LED Layout lighting color balances and levels. It is designed to
+connect to my I2C-AD4DA (I2C 4x Analog to Digital and 1x Digital
+to Analog) interface board with an RJ45/8 connection.
