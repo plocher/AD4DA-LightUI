@@ -196,7 +196,7 @@
 <text x="15.875" y="58.42" size="1.016" layer="51" rot="R180">+5</text>
 <text x="-1.27" y="19.05" size="1.778" layer="102" rot="R90">Shrunk board size</text>
 <text x="30.28" y="6.045" size="2.54" layer="51" ratio="15" rot="R180">LightUI</text>
-<text x="33.49333125" y="3.556" size="1.27" layer="51" rot="SR0">v1.0D</text>
+<text x="33.49333125" y="3.556" size="1.27" layer="51" rot="SR0">v2.2</text>
 </plain>
 <libraries>
 <library name="SPCoast">
